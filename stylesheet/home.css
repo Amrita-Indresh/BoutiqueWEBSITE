@@ -8,11 +8,14 @@ div.carousel-caption{
 	bottom:40%;
   background: rgb(0, 0, 0); /* Fallback color */
   background: rgba(0, 0, 0, 0.3); /* Black background with 0.5 opacity */
-	font-family: 'Courgette', cursive;
+	font-family: 'Coiny', cursive;
+	
 }
 
 #navigation a {
-    color:yellow;
+	font-family: 'Coiny', cursive;
+	
+	color:gold;
     font-size: 2rem;
     margin-right: 1rem;
     margin-bottom:auto;
@@ -67,9 +70,10 @@ div.carousel-caption{
 
 
 .footer-social-icons ul li a{
-	color: #182C61;
+	color: gold;
 	font-size: 25px;
 	display: block;
+	font-family: 'Coiny', cursive;
 }
 
 .footer-social-icons ul li a i{
@@ -79,6 +83,8 @@ div.carousel-caption{
 .footer-menu-one{
 	width: 100%;
 	height: auto;
+	font-family: 'Coiny', cursive;
+	
 	margin: auto;
 	margin-top: 25px;
 	padding: 3px;
@@ -87,41 +93,47 @@ div.carousel-caption{
 
 .footer-menu-one ul{
 	margin: 0px;
+	font-family: 'Coiny', cursive;
 	padding: 0px;
 	text-align: center;
 }
 
 .footer-menu-one ul li{
 	display: inline-block;
+	font-family: 'Coiny', cursive;
 	margin: 0px 20px;
 }
 
 .footer-menu-one ul li a{
-	font-family: arial;
+	
 	font-size: 20px;
 	font-weight: 600;
-	color:black;
+	color:gold;
 	text-transform: uppercase;
+	font-family: 'Coiny', cursive;
 }
 
 .down{
-	color: white;
+	color: gold;
+	font-family: 'Coiny', cursive;
 }
 
 .text-green{
-	color: white;
+	color: gold;
+	font-family: 'Coiny', cursive;
 }
 
 .footer-bottom{
 	width:100%;
 	height: auto;
+	font-family: 'Coiny', cursive;
 	margin: auto;
 	background:#48dbfb;
 	padding:5px;
 }
 
 .footer-bottom{
-	font-family: arial;
+	font-family: 'Coiny', cursive;
 	font-size: 14px;
 	text-align: center;
 }
