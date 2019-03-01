@@ -4,7 +4,7 @@
 }
 
 #bod{
-  background-color: black;
+  background-color: white;
   background-image: url('../images/bg.jpeg');
   background-repeat: no-repeat;
   font-family: 'Coiny', cursive;
@@ -49,8 +49,8 @@
 
 #navigation li a{
   font-family: 'Coiny', cursive;
-  color: white;
-  font-size: 2rem;
+  color: gold;
+  font-size: 3rem;
   border: 2px solid black;
    margin-right: 2rem;
   margin-top: 2rem;
@@ -67,7 +67,7 @@
   padding: 6% 18% 16% 5%;
   text-decoration: none;
   font-size: 25px;
-  color: black;
+  color: white;
   display: block;
   font-size: 2rem;
   height: 100%;
@@ -79,7 +79,7 @@
 
 .sidenav a:hover {
   font-family: 'Coiny', cursive;
-  color: #f1f1f1;
+  
 }
 
 
@@ -141,7 +141,6 @@
 }
 
 .hovereffect a.info:hover {
-  box-shadow: 0 0 5px rgb(255, 255, 255);
   font-family: 'Coiny', cursive;
   }
 
@@ -153,7 +152,7 @@
   transition: all 0.4s ease-in;
   opacity: 0;
   filter: alpha(opacity=0);
-  color: white;
+  color: b;
   text-transform: uppercase;
   font-family: 'Coiny', cursive;
 }
@@ -169,7 +168,7 @@
 
 #man{
   font-family: 'Coiny', cursive;
-  color: beige;
+ 
  margin-right: 80px;
  
 }
@@ -178,14 +177,14 @@
   padding: inherit;
   text-decoration: none;
   font-size: 22px;
-  color: white;
+  
   display: ruby;
   margin-left: 1200px;
   font-family: 'Coiny', cursive;
 }
 
 .sidenav a:hover {
-  color: #f1f1f1;
+  
   font-family: 'Coiny', cursive;
 }
 
@@ -239,7 +238,7 @@
 }
 
 .hovereffect1 a.info:hover {
-  box-shadow: 0 0 5px rgb(255, 255, 255);
+  
   font-family: 'Coiny', cursive;
 }
 
@@ -252,7 +251,7 @@
   opacity: 0;
   font-family: 'Coiny', cursive;
   filter: alpha(opacity=0);
-  color: white;
+  
   text-transform: uppercase;
 }
 
@@ -264,4 +263,5 @@
   -ms-transform: scale(1);
   transform: scale(1);
 }
+
 
